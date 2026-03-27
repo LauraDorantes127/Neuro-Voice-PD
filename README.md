@@ -42,8 +42,17 @@ Esta aplicación no suple las indicaciones de tu médico tratante, no manipula d
 DATOS DE CONTACTO
 Desarrollador: Laura Yazmín Díaz Dorantes
 2233073626@correo.ler.uam.mx
+
 Supervisado por Daniel Atilano Barbosa
+d.atilano@correo.ler.uam.mx
+
 Institución: Universidad Autónoma Metropolitana Unidad Lerma
+
+SUGERENCIAS Y RECOMENDACIONES DE LA APP PARA LOS DESARROLLADORES
+https://docs.google.com/forms/d/e/1FAIpQLSduPEs6D2GwX-XjX0Pl0J1dtLjxDTxjhaNFmSqS7MPbkr8_zw/viewform?usp=sharing&ouid=101225073521123045256 
+
+LINK APP GOOGLE IA STUDIO
+https://ai.studio/apps/d1435d00-3077-4757-9d99-d4f68d0993cf?fullscreenApplet=true
 
 NOTA
 Neuro-Voice PD es un prototipo de una app en desarrollo elaborado por un alumno en formación en la Licenciatura de Psicología Biomédica.
